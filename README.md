@@ -7,6 +7,3 @@ Esse foi o projeto onde eu aprendi a publicar um site com HTML, CSS e JavaScript
 ![HTML, CSS e JS](https://github.com/Paucinha/assets/blob/master/js.png?raw=true)
 
 Quer ver como está ficando? Acesse [AQUI](https://paucinha.github.io/imersaodev-aluraflix/)
-
-![Construção](https://raw.githubusercontent.com/Paucinha/assets/master/transferir.jpg)
-
